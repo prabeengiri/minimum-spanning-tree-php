@@ -6,5 +6,4 @@ This repo consists the implementation of Minimum spanning tree in the Graph usin
 It consists of:
 
   Kruskal's Algorithm
-  
   Prim's Algorithm
